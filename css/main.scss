@@ -390,17 +390,14 @@ nav {
   color: white;
   text-align: center;
   padding: 0;
-  border-top: 1px solid black;
+  border-top: 2px solid var(--primary-color);
 
   #gitHub {
-        -webkit-filter: invert(100%);
-            filter: invert(100%);
+    -webkit-filter: invert(100%);
+           filter: invert(100%);
   }
-  
 
   svg {
-    // background: white;
-    // border-radius: 5px;
     width: 3em;
     height: 3em;
     margin: 10px;
