@@ -1,4 +1,4 @@
-# Weather.js
+# Portfolio
 
 My current portfolio page as of July 2021. Built using Sass and JavaScript, my aim was to build a clean and functional site without too many distracting animations while earning a high Lighthouse score.
 
