@@ -245,7 +245,6 @@ ul.features-list li:before {
 .skills-section .shadow:hover {
   -webkit-box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.6);
           box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.6);
-  cursor: pointer;
 }
 
 .my-projects {
