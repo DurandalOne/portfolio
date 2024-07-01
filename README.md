@@ -1,6 +1,6 @@
 # Portfolio
 
-My current portfolio page as of July 2021. Built using Sass and JavaScript, my aim was to build a clean and functional site without too many distracting animations while earning a high Lighthouse score.
+My current portfolio page as of July 2024. Built using Sass and JavaScript, my aim was to build a clean and functional site without too many distracting animations while earning a high Lighthouse score.
 
 ## Lessons Learned
 
@@ -9,6 +9,8 @@ During the design process, before actually building the portfolio, I contemplate
 It was advised to me to start building the site with the mobile format in mind, then work my way to tablet and desktop displays. I found this to be much more effecient in the end. In one of my previous apps I worked the other way, desktop first then mobile and found it a real struggle.
 
 When the site was finished, I then had to learn how to deploy to Netlify, impliment their submission form into my page and change the DNS records to point to my personal domain. I thoughly enjoyed the feeling of having a fully deployed webpage up and running.
+
+The portfolio was originally designed as part of a portfolio 
 
 ## Potential Future Features
 
